@@ -1,0 +1,2 @@
+class URI:
+    PING = "/ping"
